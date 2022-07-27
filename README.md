@@ -2,6 +2,8 @@
 
 Send [pushsafer.com](https://www.pushsafer.com) notifications with a VBScript
 
+Download: [https://github.com/appzer/VBScript-Pushsafer/]([https://www.pushsafer.com](https://github.com/appzer/VBScript-Pushsafer/))
+
 Simple replace the parameter!!!
 
 Pushsafer make it easy and safe to get push-notifications in real time on your
