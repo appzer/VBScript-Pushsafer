@@ -1,6 +1,9 @@
 sUrl = "https://www.pushsafer.com/api"
 
-sRequest = "k=YourKey&d=DeviceID&t=Title Here&m=Test Message sned with VBScript&i=20&s=37&v=3"
+'Add more optionally pushsafer parameter
+'https://www.pushsafer.com/pushapi
+
+sRequest = "k=YourKey&d=DeviceID&t=Title Here&m=Test Message send with VBScript&i=20&s=37&v=3"
 
 HTTPPost sUrl, sRequest
 
